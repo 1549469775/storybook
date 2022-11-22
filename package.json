@@ -13,7 +13,7 @@
     "@babel/core": "^7.8.4",
     "@storybook/addon-knobs": "^5.3.13",
     "@storybook/preset-scss": "^1.0.2",
-    "@storybook/vue": "^5.3.13",
+    "@storybook/vue": "^6.5.13",
     "babel-loader": "^8.0.6",
     "babel-preset-vue": "^2.0.2",
     "css-loader": "^3.4.2",
